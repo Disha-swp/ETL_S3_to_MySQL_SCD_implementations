@@ -112,3 +112,19 @@ Product dimension with both current and historical versions
 
 Order fact table referencing both dimensions
 
+## 🧠 Key Learnings
+
+- Gained hands-on experience with **AWS S3** integration using `boto3`.  
+- Learned to design and implement **ETL workflows** using Python.  
+- Understood the **Star Schema** model and **data warehouse design principles**.  
+- Implemented **SCD Type 1** and **Type 2** for dimension management.  
+- Enhanced understanding of **data extraction, transformation, and loading**.  
+- Improved proficiency in **MySQL** operations and schema management.  
+- Practiced **data validation and handling nested JSON structures**.
+
+---
+## 👩‍💻 Author
+
+Disha Swarup
+Data Enthusiast | Python • SQL • Cloud • ETL
+
